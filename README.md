@@ -169,6 +169,12 @@ Sunil Makkar — backend developer in training, focused on real-world Python API
 
 ---
 
+## 📝 Blog Post
+
+👉 [Learning REST APIs by Building a Local Library Tracker API in Flask](https://medium.com/@sunil.makkar97/learning-rest-apis-by-building-a-local-library-tracker-api-in-flask-99b3f9a07ad5)
+
+---
+
 ## MIT License
 
 Copyright (c) 2025 Sunil Makkar
